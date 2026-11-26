@@ -1,0 +1,5 @@
+streamlit>=1.55
+streamlit-webrtc>=0.60
+mediapipe>=0.10.30
+av
+numpy
